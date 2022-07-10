@@ -6,10 +6,5 @@ hello git! hello git!!
 hello git! hello git!!
 hello git! hello git!!
 hello git! hello git!!
-<<<<<<< HEAD
-hello git! hello git!!bcdbcd
 hello git! hello git!!
-=======
 hello git! hello git!!
-hello git! hello git!!abcabc
->>>>>>> function01
