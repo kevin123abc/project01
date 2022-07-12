@@ -9,5 +9,3 @@ hello git! hello git!!
 hello git! hello git!!bcdbcd
 hello git! hello git!!abcabc
 NEW NEW
-by first
-by second
